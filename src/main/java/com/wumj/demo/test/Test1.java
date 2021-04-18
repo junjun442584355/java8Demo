@@ -465,5 +465,10 @@ public class Test1 {
         System.out.println("hello world");
     }
 
+    @Test
+    public void  testWumj(){
+        System.out.println("hello world wumj");
+    }
+
 
 }
