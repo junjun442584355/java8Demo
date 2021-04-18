@@ -475,5 +475,11 @@ public class Test1 {
         System.out.println("hello world wumj01");
     }
 
+    @Test
+    public void  testFhw(){
+        System.out.println("hello world  fhw");
+    }
+
+
 
 }
